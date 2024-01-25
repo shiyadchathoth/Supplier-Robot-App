@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "661033519539",
+    "firebase_url": "https://supplier-robot-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "supplier-robot",
+    "storage_bucket": "supplier-robot.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:661033519539:android:f50e3f0f554a5481d523c6",
+        "android_client_info": {
+          "package_name": "com.example.supplier_robot"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "661033519539-4alhako4c9u2h34tbus8v997msecc7mv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBU06lTa0qU85pfKfqcEI4X-LkIfbYd22o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "661033519539-4alhako4c9u2h34tbus8v997msecc7mv.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "661033519539-n6dqtj786n7urjkv3qilj08bm340eqil.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.supplierRobot"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
